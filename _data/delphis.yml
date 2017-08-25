@@ -1,14 +1,19 @@
-- name: Delphi-StringSort
-  github: https://github.com/yypbd/yypbd-Delphi-StringSort
-
-- name: Delphi-HeaderPorting
-  github: https://github.com/yypbd/yypbd-Delphi-HeaderPorting
-
-- name: Delphi-KorConst
-  github: https://github.com/yypbd/yypbd-Delphi-KorConst
+- name: Delphi-NinePatch
+  description: Nine-patch image library for Delphi.
+  github: https://github.com/yypbd/yypbd-Delphi-NinePatch
 
 - name: Delphi-Libs
+  description: Delphi Libs
   github: https://github.com/yypbd/yypbd-Delphi-Libs
 
-- name: Delphi-NinePatch
-  github: https://github.com/yypbd/yypbd-Delphi-NinePatch
+- name: Delphi-KorConst
+  description: const.pas unit for korean
+  github: https://github.com/yypbd/yypbd-Delphi-KorConst
+
+- name: Delphi-HeaderPorting
+  description: Win32 Header Porting
+  github: https://github.com/yypbd/yypbd-Delphi-HeaderPorting
+
+- name: Delphi-StringSort
+  description: Delphi String Sort Library & Example
+  github: https://github.com/yypbd/yypbd-Delphi-StringSort
