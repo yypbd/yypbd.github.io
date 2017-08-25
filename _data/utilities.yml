@@ -1,0 +1,5 @@
+- name: WindowsRegistryOpener
+  github: https://github.com/yypbd/WindowsRegistryOpener
+
+- name: filecombine
+  github: https://github.com/yypbd/filecombine
