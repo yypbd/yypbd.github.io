@@ -1,5 +1,7 @@
-- name: WindowsRegistryOpener
-  github: https://github.com/yypbd/WindowsRegistryOpener
-
 - name: filecombine
+  description: File combine GUI tool for Windows
   github: https://github.com/yypbd/filecombine
+
+- name: WindowsRegistryOpener
+  description: Windows Registry Opener
+  github: https://github.com/yypbd/WindowsRegistryOpener

@@ -19,11 +19,17 @@ title: Utility projects
 </header>
 
 <div class="container">
-    <ul>
+    <div class="row">
         {% for utility in site.data.utilities %}
-        <li>
-            <a href="{{ utility.github }}" target="_blank">{{ utility.name }}</a>
-        </li>
+        <div class="col-6 col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">{{ utility.name }}</h4>
+                    <p class="card-text">{{ utility.description }}</p>
+                    <a href="{{ utility.github }}" class="btn btn-primary" target="_blank">Go github</a>
+                </div>
+            </div>
+        </div>
         {% endfor %}
-    </ul>
+    </div>
 </div>
