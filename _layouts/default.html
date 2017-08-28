@@ -33,17 +33,17 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="/delphi">Delphi <span class="sr-only">(current)</span></a>
+                    <li class="nav-item{% if page.title == "Delphi projects" %} active{% endif %}">
+                        <a class="nav-link" href="/delphi">Delphi{% if page.title == "Delphi projects" %} <span class="sr-only">(current)</span>{% endif %}</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/utility">Utility</a>
+                    <li class="nav-item{% if page.title == "Utility projects" %} active{% endif %}">
+                        <a class="nav-link" href="/utility">Utility{% if page.title == "Delphi projects" %} <span class="sr-only">(current)</span>{% endif %}</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/about">About</a>
+                    <li class="nav-item{% if page.title == "yypbd's About" %} active{% endif %}">
+                        <a class="nav-link" href="/about">About{% if page.title == "Delphi projects" %} <span class="sr-only">(current)</span>{% endif %}</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/blog">Blog</a>
+                    <li class="nav-item{% if page.title == "yypbd's Blog" %} active{% endif %}">
+                        <a class="nav-link" href="/blog">Blog{% if page.title == "Delphi projects" %} <span class="sr-only">(current)</span>{% endif %}</a>
                     </li>
                 </ul>
             </div>
