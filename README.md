@@ -1,6 +1,7 @@
-yypbd.github.io jekyll site
-=====================
+# yypbd.github.io
+My projects blog
 
-[step-by-step beginners guide](http://jmcglone.com/guides/github-pages)
+# References
 
-[Bootstrap theme](https://startbootstrap.com/template-overviews/clean-blog/)
+1. [github jekyll - step-by-step beginners guide](http://jmcglone.com/guides/github-pages)
+2. [Bootstrap theme](https://startbootstrap.com/template-overviews/clean-blog/)
