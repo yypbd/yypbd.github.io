@@ -1,3 +1,7 @@
+- name: vuejs-launcher
+  description: Vue.js Launcher for Windows 
+  github: https://github.com/yypbd/vuejs-launcher
+
 - name: LayoutXML Control Extractor
   description: A tool for extracting control IDs and writing findByViewId code tools.
   github: https://github.com/yypbd/layoutxml-control-extractor
