@@ -1,3 +1,7 @@
+- name: ReposGazer
+  description: Git Repositories Gazer Utility 
+  github: https://github.com/yypbd/ReposGazer
+
 - name: vuejs-launcher
   description: Vue.js Launcher for Windows 
   github: https://github.com/yypbd/vuejs-launcher
